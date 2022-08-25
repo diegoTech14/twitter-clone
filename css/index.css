@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.container{
+    display:flex;
+}
+.left-div img{
+    width:950px;
+    height:710px;
+}
+.right-div{
+    width:100%;
+}

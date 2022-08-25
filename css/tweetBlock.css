@@ -1,0 +1,71 @@
+.imageProfileTweet{
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    padding-left:15px;
+    padding-right:15px;
+    
+}
+.tweet{
+    border-top: 1px solid rgba(189, 195, 199, 0.3);
+    border-bottom: 1px solid rgba(189, 195, 199, 0.3);
+    padding:20px;
+}
+
+.dataProfile{
+    display:flex;
+}
+
+.completeNameTweet, .userNameTweet{
+    display:inline;
+}
+.completeNameTweet{
+    font-size: 20px;
+}
+
+.userNameTweet{
+    color:gray;
+}
+
+.tweet-text{
+    margin-top:10px;
+}
+
+.buttons{
+    display:flex;
+    justify-content: space-between;
+    padding-right:40px;
+    padding-left:40px;
+    padding-top:20px;
+}
+
+.icon-data{
+    display:inline;
+    font-size:12px;
+    padding-left:15px;
+}
+
+#messages-icon:hover{
+    color:#1DA1F2;
+    cursor: pointer;
+}
+
+#retweet-icon:hover{
+    color:#39CE84;
+    cursor:pointer;
+}
+
+#like-icon:hover{
+    color:red;
+    cursor:pointer;
+}
+
+#share-icon:hover{
+    color:#1DA1F2;
+    cursor: pointer;
+}
+
+#messages-icon, #retweet-icon, #like-icon, #share-icon, #share-icon{
+    font-size: 20px;
+    color:rgba(189, 195, 199, 0.462);
+}

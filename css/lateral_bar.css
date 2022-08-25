@@ -1,0 +1,46 @@
+.lateral-bar{
+    background-color: black;
+    width:400px;
+}
+
+.lateral-bar ul li{
+    font-size: 25px;
+}
+
+.lateral-bar ul li span{
+    font-size: 20px;
+}
+
+.lateral-bar ul li{
+    list-style-type: none;
+    margin:20px;
+    
+}
+
+.lateral-bar ul li a{
+    text-decoration: none;
+    color:white;
+}
+
+#icon-twitter{
+    margin-left:20px;
+    font-size: 35px;
+    color:white;
+}
+
+#icon{
+    margin-right:20px;
+}
+
+.twittear-button{
+    font-size: 20px;
+    padding:10px;
+    width:200px;
+    border-radius: 30px;
+    background-color: #1DA1F2;
+    color:white;
+}
+
+.twittear-button:hover{
+    cursor: pointer;
+}

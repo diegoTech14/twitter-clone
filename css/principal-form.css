@@ -1,0 +1,64 @@
+.principal-form, .right-div{
+    background-color: black;
+    color:white;
+}
+
+.principal-form h1{
+    font-size: 60px;
+    margin-bottom:70px;
+}
+
+.principal-form h2{
+    font-size:30px;
+}
+
+
+#twitter-icon{
+    font-size: 40px;
+}
+
+.principal-form{
+
+    padding:50px;
+}
+
+.fields-panel{
+    display:flex;
+    flex-direction: column;
+    width:400px;
+}
+
+.fields-panel label{
+    margin-left:5px;
+    margin-bottom: 5px;
+}
+
+.fields-panel .email{
+    margin-bottom: 20px;
+}
+.fields-panel input{
+    height:17px;
+    border-radius: 7px;
+    padding:10px;
+    background-color: transparent;
+    border: 1px solid white;
+
+    color:white;
+    font-size: 15px;
+}
+
+.fields-panel  .sing-in{
+    background-color: transparent;
+    color:white;
+    border-color: deepskyblue;
+    border-radius: 30px;
+    font-size:15px;
+    padding:15px;
+    margin-top:50px;
+}
+
+.fields-panel .sing-in:hover{
+    cursor:pointer;
+    background-color: rgba(35, 178, 255, 0.3);
+}
+

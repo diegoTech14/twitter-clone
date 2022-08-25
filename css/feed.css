@@ -1,0 +1,10 @@
+.container{
+    display:flex;
+    flex-direction: row;
+    background-color: black;
+    color:white;
+}
+.feed{
+    width:750px;
+    height:1600px;
+}
